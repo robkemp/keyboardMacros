@@ -1,0 +1,4 @@
+Name: insertHeader
+Description: Inserts header at the cursor position.
+Binding: insertHeader
+Interactive: false
